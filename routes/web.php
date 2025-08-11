@@ -4,6 +4,7 @@ use App\Http\Controllers\Profile\ProfileController;
 use App\Http\Controllers\Frontend\FrontendController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 // Frontend Controller Routes
 Route::controller(FrontendController::class)->group(function () {

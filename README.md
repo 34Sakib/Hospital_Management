@@ -1,3 +1,5 @@
+<img width="1452" height="814" alt="image" src="https://github.com/user-attachments/assets/9dcacfbd-4ec2-4257-aa6f-a88a8a6dbeb7" />
+
 # 🏥 Hospital Management System
 
 <p align="center">
